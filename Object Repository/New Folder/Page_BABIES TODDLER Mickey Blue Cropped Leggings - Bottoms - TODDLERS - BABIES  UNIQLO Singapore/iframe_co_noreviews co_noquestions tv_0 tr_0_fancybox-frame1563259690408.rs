@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_co_noreviews co_noquestions tv_0 tr_0_fancybox-frame1563259690408</name>
+   <tag></tag>
+   <elementGuidId>62727cef-5916-4f7b-8176-d48e564df880</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sp-fancybox-iframe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>fancybox-frame1563259690408</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frameborder</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>hspace</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scrolling</name>
+      <type>Main</type>
+      <value>no</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://uniqlosg.api.useinsider.com/frame.php?viewType=1&amp;id=1527&amp;appType=24&amp;pageUrl=https%3A%2F%2Fwww.uniqlo.com%2Fsg%2Fstore%2Fbabies-toddler-mickey-blue-cropped-leggings-4148530001.html&amp;version=1563255639</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;catalog-product-view catalog-product-view product-babies-toddler-mickey-blue-cropped-leggings-4148530001 categorypath- category-&quot;]/div[@class=&quot;sp-fancybox-wrap fancybox-desktop fancybox-type-iframe sp-advanced-css-1527 sp-fancybox-opened&quot;]/div[@class=&quot;sp-fancybox-skin&quot;]/div[@class=&quot;sp-fancybox-outer&quot;]/div[@class=&quot;sp-fancybox-inner&quot;]/iframe[@class=&quot;sp-fancybox-iframe&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <value>//iframe[@name='fancybox-frame1563259690408']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='co_noreviews, co_noquestions, tv_0, tr_0'])[1]/following::iframe[8]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='loc_en_SG, 414853, prd, sort_relevancy'])[1]/following::iframe[8]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UNIQLO would like to send you exclusive online offers.'])[1]/preceding::iframe[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Would you like to be notified about our new products &amp; promotions?'])[1]/preceding::iframe[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div/div/iframe</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>SG_Login</name>
+   <name>Add to Cart</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>4f99d0a8-a2d4-4c2a-895a-eab03dde7b41</testCaseGuid>
+   <testCaseGuid>a2f432d1-975f-4a86-8ef0-1e4915f241b0</testCaseGuid>
 </TestCaseEntity>
